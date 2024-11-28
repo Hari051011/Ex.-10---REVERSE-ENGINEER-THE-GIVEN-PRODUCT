@@ -30,13 +30,15 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
+## Input:Door handle 3D model
 
 ### Output:
+![Screenshot 2024-11-28 183541](https://github.com/user-attachments/assets/4927d3db-bdd1-4a24-8150-2ac667da18bd)
 
 
-### Name:
-### Register Number:
+
+### Name:Hari krishnan.S
+### Register Number:24006616
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
