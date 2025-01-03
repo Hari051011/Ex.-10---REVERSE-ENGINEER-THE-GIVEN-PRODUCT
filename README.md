@@ -33,7 +33,8 @@
 ## Input:Door handle 3D model
 
 ### Output:
-![Screenshot 2024-11-28 183541](https://github.com/user-attachments/assets/4927d3db-bdd1-4a24-8150-2ac667da18bd)
+![image](https://github.com/user-attachments/assets/776a0b49-a61e-4d47-b5a8-669a7ea80b04)
+
 
 
 
